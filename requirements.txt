@@ -78,7 +78,7 @@ pysqlite==2.7.0
 python-dateutil==2.6.0
 python-libdiscid==1.0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 repoze.lru==0.6
 requests==2.13.0
 Routes==2.2
