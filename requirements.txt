@@ -88,7 +88,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 texttable==0.8.4
 unity-lens-photos==1.0
-urllib3==1.15.1
+urllib3==1.26.5
 uTidylib==0.3
 virtualenv==15.1.0
 webencodings==0.5
