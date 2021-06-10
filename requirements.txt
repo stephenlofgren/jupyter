@@ -18,7 +18,7 @@ configparser==3.5.0
 cryptography==1.7.1
 cssselect==1.0.1
 cssutils==1.0
-Django==1.10.6
+Django==2.2.24
 django-rest==0.0.1
 djangorestframework==3.5.4
 dnspython==1.15.0
